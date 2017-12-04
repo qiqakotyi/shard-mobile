@@ -1,0 +1,8 @@
+{
+  "name": "shard-mobile",
+  "app_id": "fa301ae1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
