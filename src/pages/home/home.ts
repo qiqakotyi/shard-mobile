@@ -29,5 +29,6 @@ export class HomePage implements OnInit {
     const browser = this.iab.create('https://www.hippodromeonline.com/', '_self', { location: 'no' });
 
     console.log(browser);
+    console.log('Test');
   }
 } 
